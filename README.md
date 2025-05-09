@@ -68,7 +68,7 @@ Machine learning regression model for predicting house prices.
 ## 🔗 Let's Connect
 
 - 📧 Email: [vipulgupta3104@gmail.com](mailto:vipulgupta3104@gmail.com)  
-- 💼 LinkedIn: [vipul-gupta-a1ab8a273](https://www.linkedin.com/in/vipul-gupta-a1ab8a273)  
+- 💼 LinkedIn: [Vipul-Gupta](https://www.linkedin.com/in/vipul-gupta-a1ab8a273)  
 - 💻 GitHub: [vipulgupta3104](https://github.com/vipulgupta3104)
 
 ---
