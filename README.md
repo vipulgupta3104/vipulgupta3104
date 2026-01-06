@@ -16,7 +16,7 @@
 
 ## 📌 Featured Projects
 
-### ❤️ [Heart Sync – 30-Day Readmission Predictor][(https://github.com/vipulgupta3104/Heart-Sync)](https://github.com/Adi-Ida404/hf-readmission)
+### ❤️ [Heart Sync – 30-Day Readmission Predictor](https://github.com/Adi-Ida404/hf-readmission)
 Predicts the likelihood of hospital readmission within 30 days for heart failure patients using machine learning techniques.  
 - Performed comprehensive data preprocessing and feature selection on an imbalanced subset of the MIMIC-III clinical dataset to improve model efficacy and interpretability  
 - Built and evaluated a machine learning model for 30-day readmission prediction  
