@@ -16,6 +16,13 @@
 
 ## 📌 Featured Projects
 
+### 🫁 [Evaluating XAI Localization Fidelity on Chest X-Ray Images](https://github.com/vipulgupta3104/EVALUATING-XAI-LOCALIZATION-FIDELITY-ON-CHEST-X-RAY-IMAGES)
+Applies explainable AI techniques to analyze and compare model interpretability in medical image classification.  
+- Implemented LIME and Grad-CAM on PyTorch-based CNN models to generate pixel-level infection localization masks from chest X-ray images  
+- Built an end-to-end XAI evaluation pipeline and benchmarked localization performance using IoU and Dice scores, demonstrating LIME’s superior spatial accuracy over gradient-based explanations
+
+---
+
 ### ❤️ [Heart Sync – 30-Day Readmission Predictor](https://github.com/Adi-Ida404/hf-readmission)
 Predicts the likelihood of hospital readmission within 30 days for heart failure patients using machine learning techniques.  
 - Performed comprehensive data preprocessing and feature selection on an imbalanced subset of the MIMIC-III clinical dataset to improve model efficacy and interpretability  
