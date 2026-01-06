@@ -9,12 +9,21 @@
 
 **Languages:** Python, Java, SQL  
 **Libraries & Tools:** Scikit-learn, TensorFlow, PyTorch, Word2Vec, NLTK, Flask  
-**Concepts:** Machine Learning, NLP, Deep Learning, Data Structures & Algorithms, OOPs, DBMS  
+**Concepts:** Machine Learning, NLP, Deep Learning, Data Structures & Algorithms, OOPs, DBMS, Explainable AI  
 **Tools:** Jupyter Notebook, VS Code, Git, IntelliJ, SQLite
 
 ---
 
 ## 📌 Featured Projects
+
+### ❤️ [Heart Sync – 30-Day Readmission Predictor][(https://github.com/vipulgupta3104/Heart-Sync)](https://github.com/Adi-Ida404/hf-readmission)
+Predicts the likelihood of hospital readmission within 30 days for heart failure patients using machine learning techniques.  
+- Performed comprehensive data preprocessing and feature selection on an imbalanced subset of the MIMIC-III clinical dataset to improve model efficacy and interpretability  
+- Built and evaluated a machine learning model for 30-day readmission prediction  
+- Applied Optuna for hyperparameter tuning  
+- Evaluated performance using accuracy, precision, and recall metrics
+
+---
 
 ### [🧠 Depbots – Depression Detection via Tweets](https://github.com/vipulgupta3104/Depbots-Depression-Detection-using-tweets)  
 Detects depressive emotions in tweets using a combination of machine learning and deep learning techniques.  
@@ -29,22 +38,6 @@ An NLP pipeline that extracts and analyzes textual content from web articles.
 - Used BeautifulSoup & Requests for scraping  
 - Extracted sentiment, readability (FOG Index), and keywords  
 - Exported structured insights into CSV format  
-
----
-
-### [🎬 Cinema Mates – Movie Recommender System](https://github.com/vipulgupta3104/Cinema-mates-Movie-recommender-system)  
-Collaborative filtering-based recommender system using the TMDB dataset.  
-- Used cosine similarity on user preferences  
-- Engineered features from genres, metadata, and ratings  
-- Deployed using Flask for interactive use
-
----
-
-### [🏠 House Price Prediction](https://github.com/vipulgupta3104/House-Price-Prediction)  
-Machine learning regression model for predicting house prices.  
-- EDA + feature engineering on 20,000-row dataset  
-- Tuned hyperparameters using Scikit-learn pipelines  
-- Trained models to predict based on features like area, bedrooms, location
 
 ---
 
