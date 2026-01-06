@@ -54,7 +54,6 @@ An NLP pipeline that extracts and analyzes textual content from web articles.
 - 🌱 I’m currently learning DSA and deep learning
 - 👯 I’m looking to collaborate on Machine Learning and Software Development related tasks
 - 💬 Ask me about Machine Learning, Deep Learning and NLP
-- 📫 How to reach me: vipulgupta3104@gmail.com
 
 ---
 
